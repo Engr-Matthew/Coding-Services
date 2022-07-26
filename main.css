@@ -26,6 +26,13 @@ a {
     color: white;
     text-decoration: none;
 }
- a :hover{
-    color: aquamarine;
-    }
+a:hover{
+    color: red;
+}
+.home-page {
+    display: flex;
+    flex-direction: column;
+    background-color: rgba(122, 130, 221, 0.801);
+    color: white;
+}
+ 
