@@ -35,4 +35,24 @@ a:hover{
     background-color: rgba(122, 130, 221, 0.801);
     color: white;
 }
- 
+ .home-page-child{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-self: center;
+    /* margin-top: 100px; */
+    height: 500px;
+ }
+ .home-page-list1{
+    margin-top: 40px;
+    margin-left: 40px;
+    font-size: 18px;
+ }
+ .home-page-list2{
+    padding: 30px;
+    font-size: 68px;
+ }
+ .home-page-list3{
+    padding: 30px;
+    font-size: 32px;
+ }
