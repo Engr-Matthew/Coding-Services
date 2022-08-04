@@ -1,0 +1,101 @@
+body{
+    margin: 0;
+    padding: 0;
+    background: white;
+}
+.company{
+    background-color: white;
+    padding: 50px;
+    display: flex;
+    justify-content: space-between;
+}
+.company p{
+    font-size: 25px;
+    color: rgb(87, 141, 103);
+    text-align: left;
+}
+.company h1{
+    margin-right: 200px;
+    font-family: 'Nitti v500', Arial, sans-serif;;
+    font-size: 30px;
+    color: rgb(91, 91, 231);
+}
+.company h2{
+    font-size: 25px;
+    color: rgb(91, 91, 231);
+    font-family: 'Nitti v500', Arial, sans-serif;
+}
+.container{
+    padding-top: 100px;
+    background-color: rgb(91, 91, 231);
+    padding: 50px;
+    display: flex;
+    justify-content: space-between;
+}
+.container p{
+    font-size: medium;
+    color: gainsboro;
+    text-align: left;
+    margin-right: 100px;
+    font-size: 23px;
+}
+.container img{
+    height: 300px;
+    width: 600px;
+}
+.container h4{
+    color: azure;
+}
+.container h2{
+    color: rgb(219, 194, 203);
+}
+.lumine{
+    background-color: aliceblue;
+    padding: 50px;
+    display: flex;
+    justify-content: space-between;
+}
+.lumine img{
+    width: 600px;
+    height: 350px;
+}
+.lumine p{
+    font-size: 23px;
+    margin-left: 20px;
+    color:rgb(87, 141, 103);
+}
+.lumine h3{
+    margin-left: 20px;
+    color: rgb(91, 91, 231);
+} 
+.bot{
+    background-color: aliceblue;
+    padding: 50px;
+    display: flex;
+    justify-content: space-between;
+}
+.bot img{
+    width: 600px;
+    height: 52s0px;
+}
+.bot h3{
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(17, 15, 15);
+}
+.bot a h3{
+    color:  rgb(87, 141, 103);
+}
+.bot a{
+    text-decoration: none;
+}
+.bot h2{
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(25, 25, 201);
+}
+.bot p{
+    font-size: large;
+    color: rgb(17, 15, 15);
+}
+.bot h1{
+    color: rgb(25, 25, 201);
+}
