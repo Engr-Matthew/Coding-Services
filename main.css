@@ -33,26 +33,47 @@ a:hover{
     display: flex;
     flex-direction: column;
     background-color: rgba(122, 130, 221, 0.801);
-    color: white;
+    color: #fff;
+
 }
  .home-page-child{
     display: flex;
     flex-direction: column;
-    justify-content: center;
-    align-self: center;
+    /* justify-content: center; */
+    /* align-self: center; */
     /* margin-top: 100px; */
     height: 500px;
  }
  .home-page-list1{
-    margin-top: 40px;
-    margin-left: 40px;
-    font-size: 18px;
+    margin-top: 100px;
+    margin-left: 180px;
+    font-size: 14px;
+    font-weight: 400;
  }
  .home-page-list2{
     padding: 30px;
-    font-size: 68px;
+    font-size: 110px;
+    margin-left: 150px;
+    line-height: 1;
+    font-family: karla, sans-serif;
  }
  .home-page-list3{
+    margin-left: 170px;
     padding: 30px;
-    font-size: 32px;
+    font-size: 24px;
+    line-height: 1.3;
+    
+    
+
+ }
+ #sentence{
+    margin-left: 200px;
+    font-family: karla, sans-serif;
+    /* display: flex;
+    -webkit-box-align: center;
+    align-items: center;
+    font-family: karla, sans-serif;
+    color: #fff;
+    line-height: 22px;
+    text-decoration: none; */
  }
