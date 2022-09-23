@@ -27,7 +27,7 @@ a {
     text-decoration: none;
 }
 a:hover{
-    color: red;
+    color: yellowgreen;
 }
 .home-page {
     display: flex;
@@ -39,9 +39,6 @@ a:hover{
  .home-page-child{
     display: flex;
     flex-direction: column;
-    /* justify-content: center; */
-    /* align-self: center; */
-    /* margin-top: 100px; */
     height: 500px;
  }
  .home-page-list1{
