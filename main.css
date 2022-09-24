@@ -39,7 +39,7 @@ a:hover{
  .home-page-child{
     display: flex;
     flex-direction: column;
-    height: 500px;
+    height: 700px;
  }
  .home-page-list1{
     margin-top: 100px;
@@ -66,11 +66,4 @@ a:hover{
  #sentence{
     margin-left: 200px;
     font-family: karla, sans-serif;
-    /* display: flex;
-    -webkit-box-align: center;
-    align-items: center;
-    font-family: karla, sans-serif;
-    color: #fff;
-    line-height: 22px;
-    text-decoration: none; */
  }
